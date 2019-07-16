@@ -1,0 +1,7 @@
+Inheritance mechanism and abstract classes
+
+Create an abstract Shape class with the abstract draw () method.
+Make the Point class with the x and y properties (both public) inheriting the Shape class.
+Try to create an object of class Point. Analyze the resulting error.
+Implement the draw () method in the Point class, displaying the line in it: “We draw a point with coordinates (x, y)”. Of course, instead of x and y there should be specific values.
+Call the draw () method on the object of the class Point and make sure that everything works correctly.
